@@ -1,5 +1,5 @@
 {
-  "name": "chiibot",
+  "name": "Gaff",
   "version": "2.0.0",
   "description": "Lightweight WhatsApp Multi-Device bot built with Baileys.",
   "main": "index.js",
@@ -39,20 +39,21 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "@aqul/akinator-api": "^3.0.1",
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.6.0",
+    "yt-search": "*",
     "baileys": "latest",
     "better-sqlite3": "^12.5.0",
     "chalk": "^5.0.0",
+    "node-fetch": "*",
     "cheerio": "^1.1.2",
     "file-type": "^17.1.1",
+    "crypto":"*",
     "fluent-ffmpeg": "^2.1.3",
     "image-size": "^2.0.2",
     "link-preview-js": "^3.2.0",
     "moment-timezone": "^0.5.33",
     "node-webpmux": "^3.2.1",
-    "pdfkit": "^0.17.2",
     "syntax-error": "^1.4.0"
   },
   "devDependencies": {
